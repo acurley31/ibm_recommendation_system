@@ -1,0 +1,18 @@
+# Commit type and summary. Below are the available options
+#   - feat: a new feature added
+#   - fix: a bug fix
+#   - docs: changes to documentation
+#   - style: formatting without any logic changes
+#   - refactor: refactoring production code
+#   - test: adding/refactoring tests with change to production code
+#   - chore: updating build tasks, package manager configs, etc.
+
+# <type>: <summary>
+
+
+# Body
+
+
+# Issue tracking
+# Resolves: <issue references>
+# See also: <issue references>
