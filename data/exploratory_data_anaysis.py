@@ -5,9 +5,9 @@ from matplotlib import pyplot
 
 
 # Constants
-FILE_ARTICLES = './data/articles_community.csv'
-FILE_INTERACTIONS = './data/user-item-interactions.csv'
-EXPLORATORY_PLOTS_DIR = './data/plots/'
+FILE_ARTICLES = './articles_community.csv'
+FILE_INTERACTIONS = './user-item-interactions.csv'
+EXPLORATORY_PLOTS_DIR = './plots/'
 
 if not os.path.exists(EXPLORATORY_PLOTS_DIR):
     os.makedirs(EXPLORATORY_PLOTS_DIR)
